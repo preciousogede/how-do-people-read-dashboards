@@ -146,7 +146,7 @@ The study had several limitations:
 ## Project Files
 
 - 📓 [View Python Analysis Notebook](How_Do_People_Read_Dashboards.ipynb)
-- 📄 [View Full Dashboard Report](How Do People Read Dashboards.pdf)
+- 📄 [View Full Dashboard Report](How_Do_People_Read_Dashboards.pdf)
 ---
 
 ## Conclusion
